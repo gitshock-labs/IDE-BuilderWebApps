@@ -1,0 +1,13 @@
+node_modules
+*.log
+dist
+gpg
+gui
+build
+*.deb
+*.bak
+Figma-app*
+snap/parts
+snap/prime
+snap/snap
+snap/stage
